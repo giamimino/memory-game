@@ -1,19 +1,20 @@
 const images = {
-  dog: "./assets/images/image=dog.png",
-  dolphin: "./assets/images/image=dolphin.png",
-  fire: "./assets/images/image=fire.png",
-  globe: "./assets/images/image=globe.png",
-  lion: "./assets/images/image=lion.png",
-  lock: "./assets/images/image=lock.png",
-  piano: "./assets/images/image=piano.png",
-  pizza: "./assets/images/image=pizza.png",
-  present: "./assets/images/image=present.png",
-  silly: "./assets/images/image=silly.png",
-  sunflower: "./assets/images/image=sunflower.png",
-  target: "./assets/images/image=target.png",
-  hat: "./assets/images/image=tophat.png",
-  umbrella: "./assets/images/image=umbrella.png"
+  dog: "https://ibb.co/Wv2xHr2L",
+  dolphin: "https://ibb.co/FkqH3WzV",
+  fire: "https://ibb.co/xKyv27Dq",
+  globe: "https://ibb.co/S4YgL3pV",
+  lion: "https://ibb.co/yc4Wwk5T",
+  lock: "https://ibb.co/GfTDGQg8",
+  piano: "https://ibb.co/7NKwY6cZ",
+  pizza: "https://ibb.co/MDnwRxTW",
+  present: "ahttps://ibb.co/fzBH1RZd",
+  silly: "https://ibb.co/SXVxNmLz",
+  sunflower: "https://ibb.co/svBhN8YD",
+  target: "https://ibb.co/nNNSsQTJ",
+  hat: "https://ibb.co/20WTT7bv",
+  umbrella: "https://ibb.co/zTFtHjDw"
 };
+
 
 let HScore = localStorage.getItem("HScore") || 0;
 
